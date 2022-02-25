@@ -51,6 +51,7 @@
     margin:0px 2px;
     font-weight: bold;
 }
+/* search bar section */
 .search_bar_container{
     min-width: 304px;
     width: 708px;
@@ -188,6 +189,7 @@
     position: relative;
     overflow: hidden;
     padding: 20px;
+    justify-content: space-between;
 }
 #slider-container .btn {
     position: absolute;
